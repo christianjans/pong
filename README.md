@@ -9,7 +9,7 @@ Pong AI that learns from how you play.
    ```
    pip install numpy
    ```
-2. Run main.py
+2. Run pong.py
 3. Play the game!
 
 ## project history
