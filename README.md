@@ -2,16 +2,21 @@
 Pong AI that learns from how you play.
 
 ## how to use
-1. Install pygame and numpy
+1. Install pygame and numpy for Python 3
 
    ```
-   pip install pygame
+   pip3 install pygame
    ```
    ```
-   pip install numpy
+   pip3 install numpy
    ```
    
-2. Run pong.py
+2. Run pong.py (using Python 3) from the appropriate directory
+
+   ```
+   python3 pong.py
+   ```
+
 3. Play the game!
 
 ## project history
