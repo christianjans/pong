@@ -19,6 +19,11 @@ Pong AI that learns from how you play.
 
 3. Play the game!
 
+## images
+
+![Main Menu](/pong-project/resources/menu.png?raw=true "The Main Menu")
+![Game](/pong-project/resources/game.png?raw=true "The Game")
+
 ## project history
 Originally, I just wanted to try and build a simple game with pygame, eventually deciding on Pong. However, once the single player and multiplayer modes were completed, I thought it wouldn't be too hard to add some sort of AI to one of the players. From a previous project, I had an existing neural network class (cjnn.py) that can create and train a fully-connected neural network, so I added it to the game.
 
